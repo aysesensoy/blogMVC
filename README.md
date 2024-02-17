@@ -1,1 +1,1 @@
-# blogMVC
+Yapım aşamasında
